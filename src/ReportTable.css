@@ -1,0 +1,23 @@
+.div-table {
+    font-size: 12px;
+    display: table;
+    width: auto;
+    border: 1px solid #666666;
+    border-spacing: 5px;
+  }
+  .div-table-row {
+    display: flex;
+    width: auto;
+    clear: both;
+    border-bottom: 1px solid #666666;
+  }
+  .div-table-col {
+    float: left;
+    display: table-column;
+    width: 100px;
+    padding: 5px;
+    border-right: 1px solid #666666;
+  }
+  .div-table-col-static {
+      background-color: #363636;
+  }
