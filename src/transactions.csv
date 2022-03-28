@@ -26,3 +26,5 @@ Who paid,Amount,Currency,For whom,Split amounts,Purpose,Category,Date & time,Exc
 "Nina","130","PLN","Piotrek K.","130","[Seppl Stoba Restauracja] - Piotrek K.","","2022-03-28 14:52:22","","130","expense",""
 "Nina","115","PLN","Jakub","115","[Seppl Stoba Restauracja] - Jakub","","2022-03-28 14:52:40","","115","expense",""
 "Nina","147.5","PLN","Marcin","147.5","[Seppl Stoba Restauracja] - Marcin","","2022-03-28 14:53:33","","147.5","expense",""
+"Paweł B.","95","PLN","Łukasz Karmański;Iga;Nina;Marcin;Paweł B.;Klaudyna;Paweł W.;Bambi;Jakub;Piotrek K.","9.5;9.5;9.5;9.5;9.5;9.5;9.5;9.5;9.5;9.5","[Seppl Stoba Restauracja] - Napiwek na stole #1","","2022-03-28 18:59:57","","95","expense",""
+"Bambi","47.5","PLN","Łukasz Karmański;Iga;Nina;Marcin;Paweł B.;Klaudyna;Paweł W.;Bambi;Jakub;Piotrek K.","4.75;4.75;4.75;4.75;4.75;4.75;4.75;4.75;4.75;4.75","[Seppl Stoba Restauracja] - Napiwek na stole #2","","2022-03-28 19:02:31","","47.5","expense",""
