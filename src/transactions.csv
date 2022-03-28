@@ -18,7 +18,7 @@ Who paid,Amount,Currency,For whom,Split amounts,Purpose,Category,Date & time,Exc
 "Paweł W.","115","PLN","Bambi","115","[Włoska Restauracja] - Bambi","","2022-03-28 12:31:55","","115","expense",""
 "Paweł W.","26","PLN","Piotrek K.","26","[Włoska Restauracja] - Piotrek","","2022-03-28 12:32:42","","26","expense",""
 "Paweł W.","6","PLN","Nina","6","[Włoska Restauracja] - Nina sam napiwek","","2022-03-28 12:33:55","","6","expense",""
-"Marcin","143","PLN","Łukasz Karmański;Iga;Nina;Marcin;Paweł B.;Klaudyna;Paweł W.;Bambi;Jakub;Piotrek K.","14.3;14.3;14.3;14.3;14.3;14.3;14.3;14.3;14.3;14.3","Napiwek Seppl Stoba","","2022-03-28 12:44:49","","143","expense",""
+"Marcin","237","PLN","Łukasz Karmański;Iga;Nina;Marcin;Paweł B.;Klaudyna;Paweł W.;Bambi;Jakub;Piotrek K.","23.7;23.7;23.7;23.7;23.7;23.7;23.7;23.7;23.7;23.7","[Seppl Stoba] Napiwek plus napoje przy wyjściu","","2022-03-28 12:44:49","","237","expense",""
 "Nina","174","PLN","Paweł B.;Klaudyna","87;87","[Seppl Stoba Restauracja] - Klaudyna i Paweł","","2022-03-28 14:30:03","","174","expense",""
 "Nina","105","PLN","Łukasz Karmański;Iga","52.5;52.5","[Seppl Stoba Restauracja] - Karmel i Iga","","2022-03-28 14:49:11","","105","expense",""
 "Nina","149","PLN","Paweł W.","149","[Seppl Stoba Restauracja] - Paweł W.","","2022-03-28 14:50:26","","149","expense",""
